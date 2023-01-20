@@ -1,0 +1,98 @@
+{
+  "meals": {
+    "m1": {
+      "description": "Finest fish and veggies",
+      "name": "Sushi",
+      "price": 22.99
+    },
+    "m2": {
+      "description": "A german specialty!",
+      "name": "Schnitzel",
+      "price": 16.5
+    },
+    "m3": {
+      "description": "American, raw, meaty",
+      "name": "Barbecue Burger",
+      "price": 12.99
+    },
+    "m4": {
+      "description": "Healthy...and green...",
+      "name": "Green Bowl",
+      "price": 18.99
+    }
+  },
+  "orders": {
+    "-NMDJxf8npGw-uNTV_I_": {
+      "userData": {
+        "city": "s",
+        "name": "s",
+        "postalCode": "12345",
+        "street": "s"
+      }
+    },
+    "-NMDKZByJ3HhW0UnqjSh": {
+      "orderedItems": [
+        {
+          "amount": 1,
+          "id": "m1",
+          "name": "Sushi",
+          "price": 22.99
+        }
+      ],
+      "user": {
+        "city": "Pun",
+        "name": "sujay",
+        "postalCode": "12345",
+        "street": "sujay"
+      }
+    },
+    "-NMDOuCocSOTA98bcm3a": {
+      "orderedItems": [
+        {
+          "amount": 1,
+          "id": "m1",
+          "name": "Sushi",
+          "price": 22.99
+        }
+      ],
+      "user": {
+        "city": "e",
+        "name": "1",
+        "postalCode": "12345",
+        "street": "1"
+      }
+    },
+    "-NMDPARIx-sEKwPxeYBJ": {
+      "orderedItems": [
+        {
+          "amount": 1,
+          "id": "m1",
+          "name": "Sushi",
+          "price": 22.99
+        }
+      ],
+      "user": {
+        "city": "p",
+        "name": "1",
+        "postalCode": "12345",
+        "street": "1"
+      }
+    },
+    "-NMDQMUT1x_s2MtRwKXG": {
+      "orderedItems": [
+        {
+          "amount": 1,
+          "id": "m1",
+          "name": "Sushi",
+          "price": 22.99
+        }
+      ],
+      "user": {
+        "city": "w",
+        "name": "1",
+        "postalCode": "12345",
+        "street": "1"
+      }
+    }
+  }
+}
